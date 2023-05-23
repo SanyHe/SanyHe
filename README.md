@@ -9,6 +9,48 @@
   <hr>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 429.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 216 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+🌆 Daytime                398 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                419 commits         ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌙 Night                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+```
+
+
+**I Mostly Code in Scala** 
+
+```text
+Scala                    7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+```
+
+
+
+
+ Last Updated on 23/05/2023 14:47:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
