@@ -38,8 +38,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████░░░░░░░░   68.18 % 
-Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   31.82 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Scala** 
@@ -55,7 +54,7 @@ TypeScript               3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 08:19:28 UTC
+ Last Updated on 15/02/2024 08:19:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
