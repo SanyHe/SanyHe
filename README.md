@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">✨ Sany's Universe 🤖 - AI/ML, Full-stack Web, Pythonist✨</h3>
+  <h3 align="center">✨ Sany's Universe 🤖 - AI/ML, Full-stack Web✨</h3>
   <h4 align="center">Data-mining wizards, algorithms at play,</h4>
   <h4 align="center">Full-stack web, where bugs go astray.</h4>
   <h4 align="center">AI-driven business, a comedic affair,</h4>
