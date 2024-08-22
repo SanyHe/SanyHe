@@ -16,6 +16,8 @@
 
 > 📦 446.6 kB Used in GitHub's Storage 
  > 
+> 🏆 155 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -36,8 +38,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              █████████████░░░░░░░░░░░░   52.36 % 
-Other                    8 mins              ████████████░░░░░░░░░░░░░   47.64 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Scala** 
@@ -53,7 +54,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 08:23:47 UTC
+ Last Updated on 22/08/2024 08:23:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
