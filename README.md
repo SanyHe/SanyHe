@@ -16,7 +16,7 @@
 
 > 📦 446.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 54 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,7 +38,8 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 44 mins       █████████████████████████   100.00 % 
+Python                   4 hrs 32 mins       █████████████████████████   99.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in Scala** 
@@ -54,7 +55,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2025 08:25:23 UTC
+ Last Updated on 25/03/2025 08:28:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
