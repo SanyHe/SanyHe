@@ -10,7 +10,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -24,23 +24,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3529 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 Daytime                7095 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
-🌃 Evening                6451 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌙 Night                  2502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Scala** 
 
 ```text
@@ -54,7 +37,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 11:48:27 UTC
+ Last Updated on 29/05/2026 11:38:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
