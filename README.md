@@ -40,7 +40,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ████████████░░░░░░░░░░░░░   48.67 % 
+Bash                     13 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +66,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 14:12:21 UTC
+ Last Updated on 28/10/2026 15:01:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
