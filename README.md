@@ -1,85 +1,15 @@
-<p align="center">
-  <h3 align="center">✨ Sany's Universe 🤖 - AI/ML, Full-stack Web✨</h3>
-  <h4 align="center">Data-mining wizards, algorithms at play,</h4>
-  <h4 align="center">Full-stack web, where bugs go astray.</h4>
-  <h4 align="center">AI-driven business, a comedic affair,</h4>
-  <h4 align="center">Robots selling shoes with mismatched pairs.</h4>
-  <h4 align="center">Laughs and glitches, a tech-comedy mix,</h4>
-  <h4 align="center">Data-mining's folly, a code's playful tricks.</h4>
-  <hr>
-</p>
+# Welcome to Sany's Universe 👋
+> My Job: LLM Inference Engineer, LLM Training & Inference Team, AI Center, OPPO
 
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20mins-blue?style=flat)
+> In short, serve and optimize LLM in **cheap cost** but **high performance**.
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.31%20million%20lines%20of%20code-blue?style=flat)
+> Tech Stack: Full-stack AI and Web Development
 
-**🐱 My GitHub Data** 
+## 🎯 My Interest - Personal AI & AI Infra
 
-> 📦 446.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+In my spare time, I am working on a series of projects related to Personal AI.
 
-```text
-🌞 Morning                4203 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌆 Daytime                8550 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌃 Evening                7597 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌙 Night                  3033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
+### Projects
+- [When-to-Speak](https://github.com/SanyHe/when-to-speak): Fine-tune Qwen3-0.6B to decide when to speak and when to stay silent in an **always-on agent's event stream**.
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   22 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
-Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Scala** 
-
-```text
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-
-
- Last Updated on 01/11/2026 14:53:26 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**SanyHe/SanyHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Live demo: https://sanyhe.github.io/when-to-speak/
