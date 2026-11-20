@@ -5,7 +5,7 @@
 
 > Tech Stack: Full-stack AI and Web Development
 
-## 🎯 My Interest - Personal AI & AI Infra
+## 🎯 My Interest - Personal AI & AI Infra & RSI
 
 In my spare time, I am working on a series of projects related to Personal AI.
 
@@ -17,3 +17,9 @@ In my spare time, I am working on a series of projects related to Personal AI.
 - [Headroom-Gate-Kernel](https://github.com/SanyHe/headroom-gate-kernel-rsi): A falsifiable gate for GPU kernel work. Before optimizing anything, **price the ceiling from a byte/FLOP ledger**; after measuring, let one held-out run decide.
 
   > Live demo: https://sanyhe.github.io/headroom-gate-kernel-rsi/
+
+- [When-to-Escalate](https://github.com/SanyHe/when-to-escalate): A routing infrastructure for always-on agents, deciding when to use cheap models for routine low-stakes tasks and frontier models for irreversible high-risk actions.
+
+  > Live demo: https://sanyhe.github.io/when-to-escalate/
+
+
