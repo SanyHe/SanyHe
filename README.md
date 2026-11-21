@@ -7,7 +7,7 @@
 
 ## 🎯 My Interest - Personal AI & AI Infra & RSI
 
-In my spare time, I am working on a series of projects related to Personal AI.
+In my spare time, I am working on a series of projects related to Personal AI & RSI.
 
 ### Projects
 - [When-to-Speak](https://github.com/SanyHe/when-to-speak): Fine-tune Qwen3-0.6B to decide when to speak and when to stay silent in an **always-on agent's event stream**.
